@@ -1,6 +1,6 @@
-## README
-
 # OpenVercel
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](./LICENSE) file for details.
 
 OpenVercel is an open-source project aimed at providing a self-hosted alternative to Vercel's cloud platform. With OpenVercel, you can deploy and manage your applications on your own infrastructure while enjoying the benefits of Vercel's powerful features.
 
