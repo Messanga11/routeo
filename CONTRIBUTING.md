@@ -35,7 +35,7 @@ To get started with contributing, follow these steps:
     git commit -m "Description of your changes"
 ```
 
-6- Push Changes: Push your changes to your forked repository.
+6- __Push Changes__: Push your changes to your forked repository.
 
 ```bash
     git push origin my-contribution
